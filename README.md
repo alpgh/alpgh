@@ -22,7 +22,7 @@
 <h3> About Me: </h3>
 
 - 🔭 I am currently working on improving my skills in manual testing and putting them into practice.
-- 🌱 I am actively learning different methods and approaches to automated testing as well as the tools used in this field.
+- 🌱 I am actively learning different methods and approaches to automated testing.
 - 👯 I am looking to collaborate with experienced testers who can share their experiences and mentor me on my professional growth path.
 - 🤔 I would appreciate help in developing skills in creating effective test scripts, test planning, and analyzing results.
 - 💬 I would be happy to answer questions about projects I have been involved in, my experience with manual testing, or software testing principles.
