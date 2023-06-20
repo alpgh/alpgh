@@ -33,14 +33,9 @@
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![TestLink](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TestLink](https://img.shields.io/badge/TestLink-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![CharlesProxy](https://img.shields.io/badge/TestRail-%23FF4646.svg?style=for-the-badge&logo=testrail&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%232196FF.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![DevTools](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=alpgh&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpgh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![DevTools](https://img.shields.io/badge/DevTools-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
