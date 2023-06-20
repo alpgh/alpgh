@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center">
-  Hello, I'm Alexandr - Manual QA Engineer
+  Hello, I'm Alex - Manual QA Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -31,11 +31,10 @@
 ### :hammer_and_wrench: Languages and Tools :
 ![Selenium](https://img.shields.io/badge/Selenium-%23008080.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23007ACC.svg?style=for-the-badge&logo=api&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![TestLink](https://img.shields.io/badge/TestLink-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![CharlesProxy](https://img.shields.io/badge/TestRail-%23FF4646.svg?style=for-the-badge&logo=testrail&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%232196FF.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
